@@ -1,0 +1,18 @@
+
+img {
+  widows: 128px;
+  height: 128px;
+}
+
+div {  
+  border: solid 1px blue;
+  margin: 10px;
+  padding: 10px;
+}
+
+#b2 {
+    text-align: center;
+    border:double 1.5px red;
+    margin:10px 500px;
+}
+
