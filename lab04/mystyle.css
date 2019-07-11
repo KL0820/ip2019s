@@ -1,0 +1,22 @@
+
+img {
+  widows: 128px;
+  height: 128px;
+  margin: 2px;
+}
+
+div {  
+  border: solid 1px blue;
+  margin: 10px;
+  padding: 10px;
+}
+
+img.selected {
+  border: solid 0.5px red;
+  margin: 2px;
+}
+
+img.done {
+  visibility: hidden;
+}
+
