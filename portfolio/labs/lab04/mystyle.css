@@ -2,6 +2,7 @@
 img {
   widows: 128px;
   height: 128px;
+  margin: 2px;
 }
 
 div {  
@@ -10,4 +11,12 @@ div {
   padding: 10px;
 }
 
+img.selected {
+  border: solid 0.5px red;
+  margin: 2px;
+}
+
+img.done {
+  visibility: hidden;
+}
 
